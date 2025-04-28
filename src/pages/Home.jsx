@@ -4,7 +4,7 @@ import HeroSection from "../components/HeroSection";
 import PageData from "../data/PageData";
 
 function Home() {
-  const resumePath = "/Arpita_Rai_Resume.pdf"; // Replace this with the correct path
+  const resumePath = "/Arpita_cv.pdf"; // Replace this with the correct path
 
   return (
     <>
